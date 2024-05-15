@@ -47,9 +47,10 @@ export const Shark = () => {
           <h3>3. Sharks are one of the rare animals that, depending on the species, can give live birth, lay eggs, 
                  or a combination of both.</h3>
           <br />
-          <h3>4. </h3>
+          <h3>4. Shark skin feels similar to sand paper.</h3>
           <br />
-          <h3>5. </h3>
+          <h3>5. Based on fossil scales found in Australia and the United States, scientists hypothesize sharks first appeared in the ocean 
+                 aroung 455 million years ago.</h3>
         </div>
       </div>
     </div>
