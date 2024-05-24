@@ -39,18 +39,20 @@ export const Shark = () => {
         <div id="shark-facts">
           <h2>FACTS</h2>
           <br />
-          <h3>1. Sharks do not have bones.</h3>
+        <ul>
+          <li>Sharks do not have bones.</li>
           <br />
-          <h3>2. When a shark loses a tooth, another one will quickly take its place to ensure that these apex 
-                 predators are always prepared for their next meal.</h3>
+          <li>When a shark loses a tooth, another one will quickly take its place to ensure that these apex 
+              predators are always prepared for their next meal.</li>
           <br />
-          <h3>3. Sharks are one of the rare animals that, depending on the species, can give live birth, lay eggs, 
-                 or a combination of both.</h3>
+          <li>Sharks are one of the rare animals that, depending on the species, can give live birth, lay eggs, 
+              or a combination of both.</li>
           <br />
-          <h3>4. Shark skin feels similar to sand paper.</h3>
+          <li>Shark skin feels similar to sand paper.</li>
           <br />
-          <h3>5. Based on fossil scales found in Australia and the United States, scientists hypothesize sharks first appeared in the ocean 
-                 aroung 455 million years ago.</h3>
+          <li>Based on fossil scales found in Australia and the United States, scientists hypothesize sharks first appeared in the ocean 
+              aroung 455 million years ago.</li>
+        </ul>
         </div>
       </div>
     </div>

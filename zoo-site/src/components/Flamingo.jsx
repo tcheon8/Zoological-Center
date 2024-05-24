@@ -35,17 +35,19 @@ export const Flamingo = () => {
         <div id="flamingo-facts">
           <h2>FACTS</h2>
           <br />
-          <h3>1. Flamingos build nests that look like mounds of mud along waterways.</h3>
+        <ul>
+          <li>Flamingos build nests that look like mounds of mud along waterways.</li>
           <br />
-          <h3>2. They eat tiny living things such as algae and small animals such as shrimp and snails.</h3>
+          <li>They eat tiny living things such as algae and small animals such as shrimp and snails.</li>
           <br />
-          <h3>3. The first ever flamingo hatched in a zoo was a Chilean flamingo. It was at Zoo Basel, 
-                 Switzerland in 1958.</h3>
+          <li>The first ever flamingo hatched in a zoo was a Chilean flamingo. It was at Zoo Basel, 
+              Switzerland in 1958.</li>
           <br />
-          <h3>4. The backward bending knee of a flamingo isn't a knee at all, it's actually the ankle. It's 
-                 knee is much higher and hidden underneath its feathers.</h3>
+          <li>The backward bending knee of a flamingo isn't a knee at all, it's actually the ankle. It's 
+              knee is much higher and hidden underneath its feathers.</li>
           <br />
-          <h3>5. Flamingos can filter feed in the water for several hours a day.</h3>
+          <li>Flamingos can filter feed in the water for several hours a day.</li>
+        </ul>
         </div>
       </div>
     </div>

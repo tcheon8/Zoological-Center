@@ -60,9 +60,15 @@ export const Animals = () => {
         </img>
         </Link>
 
+        <Link to="/Lionfish">
         <img id="lionfish-img"
              src="https://media.npr.org/assets/news/2009/08/09/lionfish-9f7f0480b3c6c767897b092ce3ecc3fd91e7d44f.jpg">
         </img>
+        </Link>
+        <br />
+        <br />
+        <br />
+        <br />
       </div>
     </div>
   );

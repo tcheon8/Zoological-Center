@@ -38,19 +38,21 @@ export const Parrot = () => {
         <div id="parrot-facts">
           <h2>FACTS</h2>
           <br />
-          <h3>1. Parrots have long life spans. Generally speaking, the larger parrot species live longer, some as 
-                 long as many humans.</h3>
+        <ul>
+          <li>Parrots have long life spans. Generally speaking, the larger parrot species live longer, some as 
+              long as many humans.</li>
           <br />
-          <h3>2. Some parrot feathers contain a pigment that's bacteria-resistan and prevents feathers from damage 
-                 caused by them.</h3>
+          <li>Some parrot feathers contain a pigment that's bacteria-resistan and prevents feathers from damage 
+              caused by them.</li>
           <br />
-          <h3>3. A parrot group is called a pandemonium.</h3>
+          <li>A parrot group is called a pandemonium.</li>
           <br />
-          <h3>4. Parrots are highly social and usually live in flocks. They communicate with each other using loud calls 
-                 and display complex behaviors within their group.</h3>
+          <li>Parrots are highly social and usually live in flocks. They communicate with each other using loud calls 
+             and display complex behaviors within their group.</li>
           <br />
-          <h3>5. Most parrots eat a diet that includes nuts, seeds, fruit, and nectar, but some will also eat 
-                 insects and small animals.</h3>
+          <li>Most parrots eat a diet that includes nuts, seeds, fruit, and nectar, but some will also eat 
+              insects and small animals.</li>
+        </ul>
         </div>
       </div>
     </div>

@@ -38,18 +38,20 @@ export const Hawk = () => {
         <div id="hawk-facts">
           <h2>FACTS</h2>
           <br />
-          <h3>1. Some hawks can attain speeds of over 150 mph when diving.</h3>
+        <ul>
+          <li>Some hawks can attain speeds of over 150 mph when diving.</li>
           <br />
-          <h3>2. In many animal species the males are larger and stronger, but 
-                 in hawks the difference in size between the sexes is reversed, and females are larger.</h3>
+          <li>In many animal species the males are larger and stronger, but in hawks the difference in size 
+              between the sexes is reversed, and females are larger.</li>
           <br />
-          <h3>3. Large hawks lay only one or two eggs each year, small hawks from three to five. Incubation 
-                 takes three to six weeks, depending on the species.</h3>
+          <li>Large hawks lay only one or two eggs each year, small hawks from three to five. Incubation 
+              takes three to six weeks, depending on the species.</li>
           <br />
-          <h3>4. All hawks are protected by state and federal laws. It is illegal to capture or kill a hawk, or
-                 to possess a hawk, alive or dead, without the proper permits.</h3>
+          <li>All hawks are protected by state and federal laws. It is illegal to capture or kill a hawk, or
+              to possess a hawk, alive or dead, without the proper permits.</li>
           <br />
-          <h3>5. Most hawks pair for life, but if one partner dies, the other will quickly find a new mate.</h3>
+          <li>Most hawks pair for life, but if one partner dies, the other will quickly find a new mate.</li>
+        </ul>
         </div>
       </div>
     </div>

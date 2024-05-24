@@ -41,23 +41,19 @@ export const Lion = () => {
         <div id="lion-facts">
           <h2>FACTS</h2>
           <br />
-          <h3>1. Lions are highly adaptable and can live in very dry areas like the Kalahari Desert. Here they get 
-            most of their water from their prey and will even drink from plants such as the Tsamma melon. 
-          </h3>
+        <ul>
+          <li>Lions are highly adaptable and can live in very dry areas like the Kalahari Desert. Here they get 
+              most of their water from their prey and will even drink from plants such as the Tsamma melon.</li>
           <br />
-          <h3>2. Young lions have rosettes and spots on their sandy coats, but 
-            these generally disappear as they mature. 
-          </h3>
+          <li>Young lions have rosettes and spots on their sandy coats, but 
+              these generally disappear as they mature.</li>
           <br />
-          <h3>3. Lions can eat up to 40kg of meat in a single meal - around a quarter of their body weight. 
-          </h3>
+          <li>Lions can eat up to 40kg of meat in a single meal - around a quarter of their body weight.</li>
           <br />
-          <h3>4. They also hunt during storms. The noise, rain and/or wind make it harder for prey to see 
-            and hear them, increasing their chances of a successful hunt.
-          </h3>
+          <li>They also hunt during storms. The noise, rain and/or wind make it     harder for prey to see and hear them, increasing their chances of a successful hunt.</li>
           <br />
-          <h3>5. Lions run at a speed of up to 81kmph.
-          </h3>
+          <li>Lions run at a speed of up to 81kmph.</li>
+        </ul>
         </div>
       </div>
     </div>

@@ -40,18 +40,20 @@ export const Zebra = () => {
         <div id="zebra-facts">
           <h2>FACTS</h2>
           <br />
-          <h3>1. A typical zebra can be 3.5 to 5 ft tall.</h3>
+        <ul>
+          <li>A typical zebra can be 3.5 to 5 ft tall.</li>
           <br />
-          <h3>2. Zebras become completely mature from three to six years.</h3>
+          <li>Zebras become completely mature from three to six years.</li>
           <br />
-          <h3>3. At night, zebras usually lie down while sleeping, but during 
-              the daytime, they habitually sleep standing up.</h3>
+          <li>At night, zebras usually lie down while sleeping, but during 
+              the daytime, they habitually sleep standing up.</li>
           <br />
-          <h3>4. The stripes of zebras control their temperature. The white stripes 
-              reflect heat while the black stripes absorb heat.</h3>
+          <li>The stripes of zebras control their temperature. The white stripes 
+              reflect heat while the black stripes absorb heat.</li>
           <br />
-          <h3>5. They have a good memory, zebras use their memory location to know 
-              if the place is best for them to live.</h3>
+          <li>They have a good memory, zebras use their memory location to know 
+              if the place is best for them to live.</li>
+        </ul>
         </div>
       </div>
     </div>
