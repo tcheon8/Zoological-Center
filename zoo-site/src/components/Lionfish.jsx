@@ -35,17 +35,19 @@ export const Lionfish = () => {
         <div id="lionfish-facts">
           <h2>FACTS</h2>
           <br />
-          <h3>1. The 13 long fins that extend from the spine of the lionfish are venomous and used to deter predators</h3>
+        <ul>
+          <li>The 13 long fins that extend from the spine of the lionfish are venomous and used to deter predators.</li>
           <br />
-          <h3>2. Lionfish have been documented to hunt over 50 species of fish. They will corner prey and strike, engulfing their meals 
-                 in a swift bite.</h3>
+          <li>Lionfish have been documented to hunt over 50 species of fish. They will corner prey and strike, engulfing their meals 
+              in a swift bite.</li>
           <br />
-          <h3>3. A lionfish's stomach can expand up to 30 times its regular size. Gobies, snappers, and groupers are some of its favorites.</h3>
+          <li>A lionfish's stomach can expand up to 30 times its regular size. Gobies, snappers, and groupers are some of its favorites.</li>
           <br />
-          <h3>4. In the wild, lionfish can survive for up to 15 years. After hatching, they take approximately 18 months to reach full maturity.</h3>
+          <li>In the wild, lionfish can survive for up to 15 years. After hatching, they take approximately 18 months to reach full maturity.</li>
           <br />
-          <h3>5. Few dare to attack lionfish for fear of being pierced by their thorny fins. Research suggests some fish would rather go without 
-                 any food than eat a lionfish.</h3>
+          <li>Few dare to attack lionfish for fear of being pierced by their thorny fins. Research suggests some fish would rather go without 
+              any food than eat a lionfish.</li>
+        </ul>
         </div>
       </div>
     </div>

@@ -40,19 +40,20 @@ export const Giraffe = () => {
         <div id="giraffe-facts">
           <h2>FACTS</h2>
           <br />
-          <h3>1. Males can grow up to 18 feet and females can reach 14 feet in height.</h3>
+        <ul>
+          <li>Males can grow up to 18 feet and females can reach 14 feet in height.</li>
           <br />
-          <h3>2. Giraffes are browsers, taking leavess and shoots of Acacia and other trees and 
-                 shrubs. The only competition they have for food is the elephant.</h3>
+          <li>Giraffes are browsers, taking leavess and shoots of Acacia and other trees and 
+              shrubs. The only competition they have for food is the elephant.</li>
           <br />
-          <h3>3. While they may eat a lot, giraffes don't drink much water. This is because they get 
-                 most of their water from their leafy meals, and only need to drink once every few days.
-            </h3>
+          <li>While they may eat a lot, giraffes don't drink much water. This is because they get 
+              most of their water from their leafy meals, and only need to drink once every few day.</li>
           <br />
-          <h3>4. In the wild, they can live for around 25 years. In captivity they live longer, and 
-                 have been known to reach 40 years old.</h3>
+          <li>In the wild, they can live for around 25 years. In captivity they live longer, and 
+              have been known to reach 40 years old.</li>
           <br />
-          <h3>5. Giraffe feet are the size of a dinner plate with a diameter of 30 cm.</h3>
+          <li>Giraffe feet are the size of a dinner plate with a diameter of 30 cm.</li>
+        </ul>
         </div>
       </div>
     </div>

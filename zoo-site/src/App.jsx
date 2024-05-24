@@ -15,6 +15,7 @@ import { Hawk } from "./components/Hawk";
 import { Parrot } from "./components/Parrot";
 import { Flamingo } from "./components/Flamingo";
 import { Clownfish } from "./components/Clownfish";
+import { Lionfish } from "./components/Lionfish";
 import { Shark } from "./components/Shark";
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
         <Route path="/parrot" element={<Parrot />} />
         <Route path="/flamingo" element={<Flamingo />} />
         <Route path="/clownfish" element={<Clownfish />} />
+        <Route path="/lionfish" element={<Lionfish />} />
         <Route path="/shark" element={<Shark />} />
       </Routes>
     </div>

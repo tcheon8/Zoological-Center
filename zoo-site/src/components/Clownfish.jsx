@@ -34,17 +34,19 @@ export const Clownfish = () => {
         <div id="clownfish-facts">
           <h2>FACTS</h2>
           <br />
-          <h3>1. Clownfish communicate by making popping and clicking noises.</h3>
+        <ul>
+          <li>Clownfish communicate by making popping and clicking noises.</li>
           <br />
-          <h3>2. Male clownfish are the primary caretakers for their young, with females only helping on occasion. </h3>
+          <li>Male clownfish are the primary caretakers for their young, with females only helping on occasion.</li>
           <br />
-          <h3>3. All clownfish start life as a male. As it grows, a male may change to become a female.</h3>
+          <li>All clownfish start life as a male. As it grows, a male may change to become a female.</li>
           <br />
-          <h3>4. Before a clownfish can call an anemone home, it has to get comfortable. The fish gently touches the anemone's 
-                 tentacles for several hours or days, until the fish forms a layer of mucus that protects it from the stings.</h3>
+          <li>Before a clownfish can call an anemone home, it has to get comfortable. The fish gently touches the anemone's 
+              tentacles for several hours or days, until the fish forms a layer of mucus that protects it from the stings.</li>
           <br />
-          <h3>5. Clownfish make up over 40% of the global marine ornamental trade. The fish are either bred in captivity, or 
-                 captured from the wild.</h3>
+          <li>Clownfish make up over 40% of the global marine ornamental trade. The fish are either bred in captivity, or 
+              captured from the wild.</li>
+        </ul>
         </div>
       </div>
     </div>
