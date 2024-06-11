@@ -13,8 +13,12 @@ export const Donate = () => {
         <br />
         <h3>When you make a donation to Zoological Center, you join our efforts to care for animals at the zoo and protect wild animals around  the world. Please enter the amount you wish to donate.</h3>   
         <br />
-        <input type="text" placeholder="Enter Amount"></input>
-        <button id="donate-button" onClick={() => {navigate("/thanks")}}>Donate</button>
+        <input type="text" placeholder="Enter Amount" size></input>
+        <br />
+        <input type="text" placeholder="Enter Email" size></input>
+        <br />
+        <br />
+        <button class="button" onClick={() => {navigate("/thanks")}}>Donate</button>
       </div> 
     </div>
   );
