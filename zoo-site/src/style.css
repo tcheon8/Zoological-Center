@@ -5,6 +5,15 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.button{
+   padding: 6px 12px;
+   margin: 0.25em;
+   border-radius: 5px;
+   border: none;
+   background: white;
+   cursor: pointer
+}
+
 /*Home Page*/
 .container{
   width: 100%;
@@ -69,7 +78,8 @@
 
 /*Mammals*/
 #mammals {
-text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 /*Lion*/
@@ -144,6 +154,8 @@ text-align: center;
 #zebra-facts {
   padding: 50px;
   color: white;
+  border-radius: 10px;
+  background-color: rgb(89, 184, 0);
 }
 
 /*Giraffee*/
@@ -186,7 +198,8 @@ text-align: center;
 
 /*Birds*/
 #birds {
-  text-align: center;
+  display: flex;
+  justify-content: center;
   }
 
 /*Hawk*/
@@ -302,7 +315,8 @@ text-align: center;
 
 /*Fish*/
 #fish {
-  text-align: center;
+  display: flex;
+  justify-content: center;
   }
 
 /*Clownfish*/
@@ -432,6 +446,40 @@ text-align: center;
   color: white;
 }
 
+/*Tickets Page*/
+#visit{
+  padding: 80px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+.admission{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 5px;
+  flex-wrap: wrap;
+  color: white;
+}
+
+#regular{
+  text-align: center;
+  width: 15%;
+  height: 200px;
+  padding: 10px 12px;
+  background-color: rgb(89, 184, 0);
+  border-radius: 10px;
+}
+
+#children{
+  text-align: center;
+  width: 15%;
+  height: 200px;
+  padding: 10px 12px;
+  border: 3px solid white;
+  border-radius: 20px;
+}
+
 /*Contact Page*/
 #contact{
   padding: 80px;
@@ -440,18 +488,28 @@ text-align: center;
   color: white;
 }
 
+.icons{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 5px;
+  flex-wrap: wrap;
+  color: white;
+}
+
 #phone{
   margin: auto;
   width: 400px; 
   padding: 80px;
-  font-size: 20px;
   text-align: center;
   color: white;
-  font-size: 50px;
+  font-size: 20px;
 }
 
-#phone-info{
-  font-size: 20px;
+#email{
+  margin: auto;
+  width: 400px; 
+  padding: 80px;
   text-align: center;
   color: white;
+  font-size: 20px;
 }

@@ -7,6 +7,8 @@ import { About } from "./components/About";
 import { Animals } from "./components/Animals";
 import { Donate } from "./components/Donate";
 import { Thanks } from "./components/Thanks";
+import { Tickets } from "./components/Tickets";
+import { Purchase } from "./components/Purchase";
 import { Contact } from "./components/Contact";
 import { Lion } from "./components/Lion";
 import { Zebra } from "./components/Zebra";
@@ -28,6 +30,8 @@ function App() {
         <Route path="/animals" element={<Animals />} />
         <Route path="/donate" element={<Donate />} />
         <Route path="/thanks" element={<Thanks />} />
+        <Route path="/tickets" element={<Tickets />} />
+        <Route path="/purchase" element={<Purchase />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/lion" element={<Lion />} />
         <Route path="/zebra" element={<Zebra />} />

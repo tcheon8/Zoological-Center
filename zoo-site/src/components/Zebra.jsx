@@ -40,6 +40,7 @@ export const Zebra = () => {
         <div id="zebra-facts">
           <h2>FACTS</h2>
           <br />
+          <br />
         <ul>
           <li>A typical zebra can be 3.5 to 5 ft tall.</li>
           <br />
